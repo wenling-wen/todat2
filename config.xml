@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id="tw.edu.nfu.eZTravel" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<!-- versionCode is optional and Android only -->
+  <name>my phone</name>
+  <description>
+      手機區
+  </description>
+  <author href="" email="40741444@nfu.edu.tw">
+      ya wenling
+  </author>
+  <content src="index.html" />
+  <platform name="android">
+    <icon src="images/logo.jpg" />
+
+  </platform>
+</widget>
